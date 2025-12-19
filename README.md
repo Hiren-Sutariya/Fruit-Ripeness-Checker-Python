@@ -1,4 +1,4 @@
-# 🍌 Fruit Ripeness Checker (Python)
+# Fruit Ripeness Checker (Python)
 
 This is a simple Python program that checks the ripeness of a fruit (currently Banana) based on the color entered by the user.  
 It is created to practice **if-else conditional statements** in Python.
